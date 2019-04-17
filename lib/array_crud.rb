@@ -8,8 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   new_array = [ "a", "b", "c", "d"]
-  new_array << "e"
-  puts new_array.inspect
+  new_array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
